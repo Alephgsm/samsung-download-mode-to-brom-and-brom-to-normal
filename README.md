@@ -1,4 +1,4 @@
-# algorithm by which you can switch your Samsung phone(mediatek chipset) from download mode to bootrom mode !!
+# samsung devices (mediatek) switch Download Mode to bootrom
 # Also switch from bootrom mode to normal mode
 This project was commissioned by a reputable team and we are allowed to sell it from today until 20 days later.
 
